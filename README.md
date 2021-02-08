@@ -78,7 +78,7 @@ $ ./testoutput
 ```
 If the image appears then OpenCV has been successfully set up
 
-![out](./OpenCV_Logo)
+![out](./OpenCV_Logo.png)
 
 Happy learning !!! ;)
 
